@@ -67,11 +67,11 @@ Focuses on geographical sales performance and promotional analysis.
 ## Dashboard Screenshots
 
 ### Initial Analysis
-![Initial Analysis](Screenshots/Initial_Analysis.png)
+<img width="1381" height="801" alt="image" src="https://github.com/user-attachments/assets/8ebc0a80-550d-4f98-a445-f62936c0b854" />
+
 
 ### Regional Analysis
-![Regional Analysis](Screenshots/Regional_Analysis.png)
+<img width="1381" height="807" alt="image" src="https://github.com/user-attachments/assets/b2845143-aeee-466c-ab52-37047a2c1fdf" />
 
-## Author
-
-Data Analytics & Power BI Portfolio
+**Author:** heydarova000  
+**Project:** Sales Report
