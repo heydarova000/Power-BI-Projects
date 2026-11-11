@@ -39,4 +39,23 @@ Analysis of assets, liabilities, and financial position.
 - Evaluate cash flow.
 - Support data-driven decision-making.
 
+## Dashboard Screenshots
+
+### Executive_Summary
+<img width="1375" height="772" alt="image" src="https://github.com/user-attachments/assets/a985aef2-0454-4044-9efa-c31f88342cff" />
+
+### Variance_Analysis
+<img width="1420" height="802" alt="image" src="https://github.com/user-attachments/assets/2c25cf9d-cf6d-44cb-9734-40742b0e989e" />
+
+### Cash_Flow
+<img width="1417" height="801" alt="image" src="https://github.com/user-attachments/assets/74f2336d-f8ce-4908-9f69-f5c7ee246e7e" />
+
+### Balance_Sheet
+<img width="1422" height="800" alt="image" src="https://github.com/user-attachments/assets/45d65be2-a78d-40e9-a79b-53f75ca33040" />
+
+
+
+
+
+
 
