@@ -39,5 +39,4 @@ Analysis of assets, liabilities, and financial position.
 - Evaluate cash flow.
 - Support data-driven decision-making.
 
-Dashboard Screenshots
 
