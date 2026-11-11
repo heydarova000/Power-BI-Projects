@@ -47,7 +47,13 @@ This dashboard focuses on predicting future sales trends based on historical sal
 ## Project Objective
 The main objective of this project is to transform raw sales data into meaningful business insights through interactive dashboards and forecasting analysis.
 
----
+## Dashboard Screenshots
+
+### First Analyze
+Super Store Sales Dashboard/Screenshots/First Analyze.png
+
+### Forecast
+Super Store Sales Dashboard/Screenshots/Forecast.png
 
 **Author:** heydarova000  
 **Project:** Super Store Sales Dashboard
