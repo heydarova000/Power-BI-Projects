@@ -53,6 +53,8 @@ Analysis of assets, liabilities, and financial position.
 ### Balance_Sheet
 <img width="1422" height="800" alt="image" src="https://github.com/user-attachments/assets/45d65be2-a78d-40e9-a79b-53f75ca33040" />
 
+## Author 
+### heydarova000
 
 
 
