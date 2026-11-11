@@ -74,4 +74,4 @@ Focuses on geographical sales performance and promotional analysis.
 <img width="1381" height="807" alt="image" src="https://github.com/user-attachments/assets/b2845143-aeee-466c-ab52-37047a2c1fdf" />
 
 **Author:** heydarova000  
-**Project:** Super Store Sales Dashboard
+**Project:** Sales Report
