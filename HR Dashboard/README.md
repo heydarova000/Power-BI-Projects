@@ -89,6 +89,5 @@ Provides a deeper analysis of employee satisfaction and workforce characteristic
 ### Detail Page
 ![HR Dashboard Detail](Screenshots/Detail.png)
 
-## Author
-
-Power BI Portfolio
+**Author:** heydarova000  
+**Project:** HR Dashboard
