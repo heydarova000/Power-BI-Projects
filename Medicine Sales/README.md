@@ -8,17 +8,16 @@ A comprehensive Power BI reporting solution designed to analyze pharmacy sales p
 
 ### 1. Sales Analysis (Page 1)
 Overview of total quantity, revenue, profit, and cost metrics with monthly trends and filtering capabilities.
-![Sales Analysis Dashboard](Screensshots/Sales_Analysis.png)
+[[![Sales Analysis Dashboard](Screensshots/Sales_Analysis.png)
+](https://github.com/heydarova000/Power-BI-Projects/blob/main/Medicine%20Sales/Screenshots/Page%201.png)](https://github.com/heydarova000/Power-BI-Projects/blob/main/Medicine%20Sales/Screenshots/Page%201.png)
 
 ### 2. Category & Demographic Metrics (Page 2)
 Geographical distribution (Treemap), user vs. seller breakdowns, and age group comparisons (Revenue vs. Profit).
-![Category Calculations](Screensshots/Category_Calculations.png)
+[![Category Calculations](Screensshots/Category_Calculations.png)](https://github.com/heydarova000/Power-BI-Projects/blob/main/Medicine%20Sales/Screenshots/Page%202.png)
 
 ### 3. Product Performance (Medicine Revenue)
 Detailed breakdown of medicine sales performance highlighting top-performing products.
-![Medicine Revenue Analysis](Screensshots/Medicine_Revenue.png)
-
----
+https://github.com/heydarova000/Power-BI-Projects/blob/main/Medicine%20Sales/Screenshots/Page%203.png
 
 ## 🚀 Key Features & KPIs
 * **Financial Overview:** Track Total Quantity (23K), Total Revenue (6M ₼), Total Profit (5M ₼), Total Cost, and Profit Margin (81.80%).
@@ -35,5 +34,5 @@ Detailed breakdown of medicine sales performance highlighting top-performing pro
 
 ---
 
-## 📬 Contact
-Feel free to reach out if you have any questions or suggestions regarding this project!
+**Author:** heydarova000  
+**Project:** Medicine Sales
