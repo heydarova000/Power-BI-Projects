@@ -50,10 +50,12 @@ The main objective of this project is to transform raw sales data into meaningfu
 ## Dashboard Screenshots
 
 ### First Analyze
-Super Store Sales Dashboard/Screenshots/First Analyze.png
+<img width="1432" height="807" alt="image" src="https://github.com/user-attachments/assets/be15b929-74c4-464f-8c70-47a425e8fb59" />
+
 
 ### Forecast
-Super Store Sales Dashboard/Screenshots/Forecast.png
+<img width="1438" height="810" alt="image" src="https://github.com/user-attachments/assets/9c591190-760a-4a6f-bc0e-2d19204beab6" />
+
 
 **Author:** heydarova000  
 **Project:** Super Store Sales Dashboard
